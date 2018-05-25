@@ -1,4 +1,7 @@
-## Club de Cuervos Fantasy Football League
+## Champions League 2017-2018 (Season 6)
+
+This season is comprised of the following players: Alejandro, Genaro, Guillermo, Irving, Ismael, Jorge, Ricardo, Victor. 
+To change your team, go to [UEFA Champions League Fantasy](http://uclfantasy.uefa.com/en/fantasy17/manage-team) 
 
 You can use the [editor on GitHub](https://github.com/Grinver/cuervosfcfantasy.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
