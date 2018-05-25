@@ -1,13 +1,2 @@
 theme: jekyll-theme-tactile
 title: Cuervos FC Fantasy Football
-
-{
-  .container
-  {
-    width: 97% !important;
-  }
-
-  .pagehead
-  {
-    margin-left: 40px !important;
-  }
