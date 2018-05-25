@@ -1,4 +1,4 @@
-## Champions League 2017-2018 (Season 6)
+<h1> Champions League 2017-2018 (Season 6) </h1>
 
 This season is comprised of the following players: Alejandro, Genaro, Guillermo, Irving, Ismael, Jorge, Ricardo, Victor. 
 
@@ -7,7 +7,7 @@ To change your team, go to [UEFA Champions League Fantasy](http://uclfantasy.uef
 The next event takes place on May 26<sup>th</sup>, 2018: 
 
 <p align ="center">
-<h1>Final: Liverpool vs Real Madrid</h1>
+<b>Final: Liverpool vs Real Madrid</b>
   </p>
 
 You can use the [editor on GitHub](https://github.com/Grinver/cuervosfcfantasy.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
