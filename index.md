@@ -10,6 +10,25 @@ The next event takes place on May 26<sup>th</sup>, 2018:
 <b>Final: Liverpool vs Real Madrid</b>
 </p>
 
+The following Fantasy Cup matches will also occur:  
+
+<div style="width:600px;margin:0 auto"> 
+<table>
+  <tr>
+    <th colspan="2">Finals Leg II</th>
+  </tr>
+  <tr>
+    <th>Cup Final</th>
+    <th>Sacko Final</th>
+  </tr>
+  <td>Genaro vs Irving</td>
+  <td>Ismael vs Ricardo</td>
+</table>
+</div>
+                    
+                     
+    
+
 You can use the [editor on GitHub](https://github.com/Grinver/cuervosfcfantasy.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
