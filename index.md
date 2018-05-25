@@ -8,7 +8,7 @@ The next event takes place on May 26<sup>th</sup>, 2018:
 
 <p align ="center">
 <b>Final: Liverpool vs Real Madrid</b>
-  </p>
+</p>
 
 You can use the [editor on GitHub](https://github.com/Grinver/cuervosfcfantasy.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
