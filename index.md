@@ -4,6 +4,12 @@ This season is comprised of the following players: Alejandro, Genaro, Guillermo,
 
 To change your team, go to [UEFA Champions League Fantasy](http://uclfantasy.uefa.com/en/fantasy17/manage-team) 
 
+The next event takes place on May 26^{th}, 2018: 
+
+<p align ="center">
+###Final: Liverpool vs Real Madrid
+  </p>
+
 You can use the [editor on GitHub](https://github.com/Grinver/cuervosfcfantasy.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
